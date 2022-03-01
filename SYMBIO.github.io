@@ -6,6 +6,9 @@
 <script>
   window.location.href = "https://symbio.live"
 </script>
+
+If you are not redirected automatically, follow the <a href='http://example.com'>link</a>
  
 <title>Redirect</title>
+
 <html>
