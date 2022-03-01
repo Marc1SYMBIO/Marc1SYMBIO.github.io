@@ -1,5 +1,4 @@
 <!DOCTYPE HTML>
-<html>
 
 <meta charset="UTF-8">
 <meta http-equiv="refresh" content="1; url=https://symbio.live">
